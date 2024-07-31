@@ -143,9 +143,9 @@ h6{
   position: absolute;
   background-size: cover;
   top:1000px;
-  padding: 5px;
+  padding: 15px;
   width: 100%;
-  margin-left: 285px;
+  margin-left: 65px;
 justify-content: center;
 align-items: center;
 
@@ -155,7 +155,7 @@ align-items: center;
 }
 .box img{
   width: 420px;
-  padding: 25px;
+  padding: 35px;
 }
 .box img:hover{
   transform: scale(1.2);
