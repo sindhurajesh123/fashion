@@ -153,26 +153,15 @@ align-items: center;
   max-width: 100%;
 }
 .box img{
-  width: 470px;
-  padding: 5px;
+  width: 420px;
+  padding: 50px;
 }
 .box img:hover{
   transform: scale(1.2);
   }
-  @media (max-width: 768px) {
-    .homeimg {
-      top: 800px; 
-      width: 95%; 
-      margin-left: auto;
-      margin-right: auto;
-      left: 50%;
-      transform: translateX(-50%);
-    }
+ 
   
-    .box img {
-      width: 100%;
-    }
-  }
+
   .foot{
     position: absolute;
     background-size: cover;
