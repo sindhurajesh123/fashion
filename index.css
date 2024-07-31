@@ -135,6 +135,7 @@ h6{
   text-align: center;
   margin-top:100px;
   font-weight: 400;
+  margin-right: 350px;
 }                                           
  
   
@@ -144,7 +145,7 @@ h6{
   top:1000px;
   padding: 5px;
   width: 100%;
-  margin-left: 55px;
+  margin-left: 285px;
 justify-content: center;
 align-items: center;
 
@@ -153,8 +154,8 @@ align-items: center;
   max-width: 100%;
 }
 .box img{
-  width: 470px;
-  padding: 5px;
+  width: 420px;
+  padding: 25px;
 }
 .box img:hover{
   transform: scale(1.2);
